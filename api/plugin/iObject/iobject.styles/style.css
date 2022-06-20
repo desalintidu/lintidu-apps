@@ -1,0 +1,66 @@
+/* CSS Document */
+#input_style{
+		height: 24px;
+		font-size: 14px;
+		border: 1px solid #CCCCCC;
+		color:#333333;
+		-moz-border-radius: 5px;
+		-khtml-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding:2px 0 0 2px;
+	}
+#textarea_style{
+		font-size: 14px;
+		border: 1px solid #CCCCCC;
+		-moz-border-radius: 5px;
+		-khtml-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding:2px 0px 2px 0px;	
+	}
+#select_style{
+		height: 24px;
+		font-size: 14px;
+		border: 1px solid #CCCCCC;
+		color:#333333;
+		-moz-border-radius: 5px;
+		-khtml-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		padding:2px 0 0 2px;
+	}
+#button_style{
+	font-size: 12px;
+	color:#FFFFFF;
+	border:1px solid #5872a7;
+	-moz-border-radius: 3px;
+	-khtml-border-radius: 15px;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	font-weight: bold;
+	padding-bottom:3px;
+	-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.5);
+	text-shadow: 0 -1px 1px rgba(0,0,0,0.25);
+	border-bottom: 2px solid rgba(0,0,0,0.25);
+	background-color: #2daebf;
+	cursor:pointer;
+}
+.cursor_move:hover{background:#FFFFCC}
+
+.tb_head{
+	color:#333333; 
+	/*background:#0066CC;*/
+	background:url('img/p6.png') repeat-x;
+	font-size:11px;
+}
+
+#cpth{
+			font-size:18px;
+			color:#00CC00;
+			font-weight:bold;
+			font-family:Verdana;
+			text-decoration:line-through;
+			padding:2px 2px 2px 2px;
+}
